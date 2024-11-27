@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drowsiness-detection-new",
+  "private_key_id": "5f0475066170ba234db416a9b181e9406824dcc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuudFYJXUqRn5O\nKn/sMQBMl7i2bnKdH99O8AbT8g6C3IrNaloetBE4vmHhGmFjCfiJ0hXR2tVoWuhx\nFYjC0ieOEbY+0sFHnQm9rmvH2xjOqdfGe+RwT8Y3hV1rbJk3a9yhjq6091bN3Q7o\nRXJkTJ7iQyOVUcqDNPPHt7PT5xha02ZBhZTe5t+Pf4Yej1r43QhNfOm+LgXoqFh+\nRnluC8feAh9BghNgeMitysanw9Csk4+dtkP2N/661cKdJut84eWrzYzv3ZwpmYKk\n0S+lcCC7p4GcfjXX0beWjcPY63LYwoF5UwAhXs9RUJ2v8K7HAfhivZUw4SGC7ftv\ne81XeI6HAgMBAAECggEAB6lnfNlscT8hslgtjEDin3kwhPQ3TtAjLaxbnRc9laij\nTLo/wdFP+moDk47H+6mbRKF58KrYHGxbSi73wUgP3fkrqBOVabuA8T76kPGSY+jE\nta2gtcZ5wN0c3Jh1gepwt7dKNLtH18OJMAKjlbLA1Aq+C7UuqS3Wpsi8BPj0QD9E\nTJCt4RL88E1ppxCHfMzxju+ta2XEgOjohWPsl5+Lidd4g7wBBJrswUIcCzLIex+j\ne/sio3fnBN576pHhbquhSKBjO4z4yYoOfeBmUc1b2LVElUsYpxec5XPp598fR081\nsIazx6Gh2QmzJeCXgbnwHOMiY4ruxES1DwEqY91zuQKBgQDftyUDk7gbpmOHKZwc\nelaZ/sCe8txbgqqIEdN5DW2fGVKPwg3RxTB3fqwXeR15ov5gj+0B945x1OfJMgwI\nwqoU1v5J7nejGKkJVKMdNeRyPqbyonq0bmMLtUbPK2Cw+lconzULs4lPAqKM3RWS\nRcTINpcF/jXEJIXgA0XvbjsrjQKBgQDH8NJon6SZm2ZULq0SFbpVO6/XtpB57n9j\nXL/KYaOPmqytn95x1YK9YghaAvHENIbb4us2rmNY14r0GrgKo9FOSZaHqBFeoEQn\nSy7tcwNG5jtchlgjDwJ1Dcx9yssqxHQPK5K2WIHLQOmpdN0E41AWbQhjzwxvYXt2\nQddsi1hTYwKBgC9pP+XnK3BordUaQ2RhpPLT43yMGZknMv7NUFTqPJ4oHrAqvwUC\n1kesx8nduBpsKZ7LQb5V+ZE0Pr8L5TMCFkt+WLvQVvhwpHo+vqbVIgn4LydiucB9\nWG5Fx7DmD4LSOyB3xSUqsmHVPB/ARu8N7CtGLnFts3VTDDAyYWLhqJaNAoGBAKZr\nH2cwAdxNCZZmJ24XIboR7SH6djTXO7bjm0uDi5Va5AG8QHW1hpXFhDgPnVZ3dgyN\nysP/0PdAqQrXNnq8sdmczKtrS9HcSf3+yTeg9IhN1/kCZVgBBUWSz7OgWQzm6cc6\nuGoILziTdimy+Mg5wA56gHI7AxmuJQpgcUOKlGELAoGAXQyw/1MgAFVNmL8DLjEU\nvGi35ciTCJCwFx7ua9ARxnahAzCGfuxEckTAowQaaVlv5RygtQS4h5le17nTiy0E\nwjkH4FXCwNqhfy3XU2hY5FHBUaXd7qt7xJQrSs6qh9jD7RjRBtGqDHv5H1WbaVLp\nLtbu3y6C+2KENi67ARC1RmU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5j8h5@drowsiness-detection-new.iam.gserviceaccount.com",
+  "client_id": "101057193141048134399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5j8h5%40drowsiness-detection-new.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
